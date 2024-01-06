@@ -1,0 +1,7 @@
+C:\Users\paulo\OneDrive\Área de Trabalho\Aulas - C#\Xadre - console\Xadre - console\bin\Debug\Xadre - console.exe.config
+C:\Users\paulo\OneDrive\Área de Trabalho\Aulas - C#\Xadre - console\Xadre - console\bin\Debug\Xadre - console.exe
+C:\Users\paulo\OneDrive\Área de Trabalho\Aulas - C#\Xadre - console\Xadre - console\bin\Debug\Xadre - console.pdb
+C:\Users\paulo\OneDrive\Área de Trabalho\Aulas - C#\Xadre - console\Xadre - console\obj\Debug\Xadre - console.csproj.AssemblyReference.cache
+C:\Users\paulo\OneDrive\Área de Trabalho\Aulas - C#\Xadre - console\Xadre - console\obj\Debug\Xadre - console.csproj.CoreCompileInputs.cache
+C:\Users\paulo\OneDrive\Área de Trabalho\Aulas - C#\Xadre - console\Xadre - console\obj\Debug\Xadre - console.exe
+C:\Users\paulo\OneDrive\Área de Trabalho\Aulas - C#\Xadre - console\Xadre - console\obj\Debug\Xadre - console.pdb
