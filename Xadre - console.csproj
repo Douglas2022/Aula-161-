@@ -49,6 +49,9 @@
     <Compile Include="Tabuleiro\Peca.cs" />
     <Compile Include="Tabuleiro\Posição.cs" />
     <Compile Include="Tabuleiro\Tabuleiro.cs" />
+    <Compile Include="Tela.cs" />
+    <Compile Include="Xadrez\Rei.cs" />
+    <Compile Include="Xadrez\Torre.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />

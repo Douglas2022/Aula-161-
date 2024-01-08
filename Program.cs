@@ -1,15 +1,22 @@
 ﻿using System;
 using tabuleiro;
-namespace Xadre___console
+using Xadrez;
+
+namespace Xadre_
 {
-    internal class Program
+    class Program
     {
         static void Main(string[] args)
         {
-          Tabuleiro tab = new Tabuleiro(8,8);
+            Tabuleiro tab = new Tabuleiro(8, 8);
 
+            tab.colocarPecas(new Torre(tab, Cor.Preta), new Posição(0, 0));
+            tab.colocarPecas(new Torre(tab, Cor.Preta), new Posição(1, 3));
+            tab.colocarPecas(new Rei(tab, Cor.Preta), new Posição(2, 4));
 
-            Console.WriteLine();
+            Tela.imprmirTabuleiro(tab);
+
+            Console.ReadLine();
         }
     }
 }
