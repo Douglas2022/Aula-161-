@@ -25,10 +25,6 @@ namespace tabuleiro
             pecas[pos.linha, pos.coluna] = p;
             p.posicao = pos;
         }
-
-        internal static object Peca(int i, int j)
-        {
-            throw new NotImplementedException();
-        }
+        
     }
 }
